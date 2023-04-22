@@ -1,0 +1,8 @@
+{
+  "plugins": ["stylelint-plugin-defensive-css"],
+  "rules": {
+    "plugin/use-defensive-css": [true, { 
+      "vendor-prefix-grouping": true
+    }]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stylelint-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "stylelint": "stylelint './styles.css'"
+  },
+  "dependencies": {
+    "stylelint": "^15.5.0",
+    "stylelint-plugin-defensive-css": "^0.1.0"
+  }
+}
